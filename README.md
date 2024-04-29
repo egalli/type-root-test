@@ -1,0 +1,1 @@
+This repository only existing to file an issue with the TypeScript compiler.

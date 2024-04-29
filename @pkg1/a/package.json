@@ -1,0 +1,4 @@
+{
+    "name": "@pkg1/a",
+    "types": "dist/index.d.ts"
+}

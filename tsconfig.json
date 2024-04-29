@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "typeRoots": [
+            "@pkg1/a",
+            "@pkg2/b"
+        ]
+    },
+    "exclude": [
+        "@pkg1",
+        "@pkg2",
+    ]
+}
